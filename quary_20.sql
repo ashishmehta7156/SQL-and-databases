@@ -55,7 +55,7 @@ delete from mehta123  where actor_id=2;
 SELECT * FROM MEHTA123;
 
 -- most important quation for interview
--- what is DDL AND DML 
--- DEFERENCE B/W truncate delete and drop 
--- what is normalization 
--- difference between char and varchar data type 
+-- Q1 what is DDL AND DML 
+-- Q2 DEFERENCE B/W truncate delete and drop 
+-- Q3 what is normalization 
+-- Q4 difference between char and varchar data type 
